@@ -2,4 +2,5 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
-  - Password: "!include /etc/passwd" # <--- Intentamos leer un archivo del VPS
+
+
