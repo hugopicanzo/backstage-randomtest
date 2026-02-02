@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: research-include-monorepo
+  name: research-randomtest
   annotations:
     # Esta anotación le dice a TechDocs dónde buscar el mkdocs.yml
     backstage.io/techdocs-ref: dir:.
@@ -9,3 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: guest
+
