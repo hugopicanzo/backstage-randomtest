@@ -1,6 +1,7 @@
-site_name: 'example-docs'
+site_name: 'random-test'
 
 nav:
   - Home: index.md
+
 
 
